@@ -80,8 +80,9 @@ More than one activity is tried using Use Gmail resources Based on many activiti
  * To Move Email: 
  1) Also inside the for each email use Move Email > select the destination inside move to (all emails will be transfer to Draft)
 
-    <img src="https://github.com/user-attachments/assets/8f964cf5-786e-42f3-9e06-1d6de3b185cb" width="400"> 
+    <img src="https://github.com/user-attachments/assets/da57fcfb-ff3d-4722-980b-7b3b90a6b929" width="400"> 
   
+
 
 
 # Results
