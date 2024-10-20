@@ -83,11 +83,6 @@ More than one activity is tried using Use Gmail resources Based on many activiti
     <img src="https://github.com/user-attachments/assets/da57fcfb-ff3d-4722-980b-7b3b90a6b929" width="400"> 
   
 
-
-
-# Results
-To watch the First Bot run this video, [click here]()
-
 # CONCLUSION
 1) CurrentMail Variable stays within scope For Each Email It can not be used outside the scope.
 2) There are many commands used beside CurrentMail Variable :(Body, DateAsDateTime,From) and you can print them once transfered to string (.toString)
