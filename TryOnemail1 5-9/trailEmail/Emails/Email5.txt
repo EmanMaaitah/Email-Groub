@@ -1,0 +1,7 @@
+Hello,
+
+Use Your Mail_Bot in Uipath to read this email.
+
+Happy automation!
+
+Regards,

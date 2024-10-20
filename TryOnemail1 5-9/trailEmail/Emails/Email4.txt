@@ -1,0 +1,8 @@
+Hello,
+
+Use Your Mail_Bot in Uipath to save, read and forward this email to another email address.
+
+Happy automation!
+
+Regards,
+

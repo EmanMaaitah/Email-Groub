@@ -1,0 +1,7 @@
+Hello,
+
+Use Your Mail_Bot in Uipath to read then delete this email.
+
+Happy automation!
+
+Regards,
